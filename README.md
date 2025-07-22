@@ -1,2 +1,3 @@
-# resume
-Keeping my resume under version control because why not?
+# RESUME
+
+Just a small repo to version control my resume.
