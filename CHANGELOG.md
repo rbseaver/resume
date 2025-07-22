@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.2.0](https://github.com/rbseaver/resume/compare/v1.1.0...v1.2.0) (2025-07-22)
+
+
+### Features
+
+* improve HealthStream/Decision Critical description ([2abdb4f](https://github.com/rbseaver/resume/commit/2abdb4f66e1574ccdab8d805647b2666b340cba1))
+
 ## [1.1.0](https://github.com/rbseaver/resume/compare/v1.0.0...v1.1.0) (2025-07-22)
 
 
