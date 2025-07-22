@@ -37,13 +37,14 @@
 
 **Technologies:** ASP\.NET, C#, JavaScript, jQuery, SQL Server, T-SQL, PowerShell, TeamCity, Octopus Deploy, Visual Studio, VS Code
 
-#### HealthStream/Decision Critical | Austin, TX | Software Developer | June 2005–May 2013
+#### Decision Critical, a HealthStream Company | Austin, TX | Software Developer | June 2005–May 2013
 
-*HealthStream is a SaaS platform for delivering online educational content and assessing professional competencies.*
+*Decision Critical was a SaaS platform for delivering online educational content and assessing professional competencies, acquired by HealthStream in July 2012.*
 
-* Provided client support and technical analysis to enhance product value and user experience.  
-* Applied diagnostic and programming skills to resolve issues across diverse customer environments.  
-* Mentored junior developers and supported engineering onboarding initiatives.
+* Joined as the third full-time employee, and worked directly with the CTO and CEO to enhance and expand the core product from primarily a learning management system (LMS), to a fully integrated suite of education, competency management, and employee evaluation tools.
+* Helped get new developers up to speed and contributing quickly.
+* Worked directly with major clients to provide account management, technical support and prioritize feature requests and bug fixes.
+* Applied diagnostic and programming skills to resolve issues across diverse customer environments.
 
 **Technologies:** ASP\.NET, JavaScript, VB6, Active Server Pages, SQL Server, Visual Studio
 
