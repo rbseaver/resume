@@ -1,10 +1,8 @@
 # ROB SEAVER	
 
-##### Senior Software Engineer | Austin, TX 78750 | [linkedin.com/in/rbseaver/](http://linkedin.com/in/rbseaver/) | [rob.seaver@gmail.com](mailto:rob.seaver@gmail.com) | (512) 576-4801
+**Senior Software Engineer** | Austin, TX 78750 | [linkedin.com/in/rbseaver/](http://linkedin.com/in/rbseaver/) | [rob.seaver@gmail.com](mailto:rob.seaver@gmail.com) | (512) 576-4801
 
----
-
-## SUMMARY
+## **SUMMARY**
 
 * 20+ years of experience in web application development across startups, government, and enterprise teams
 * Builds cloud-native, distributed applications with an API-first mindset and experience implementing event-driven patterns in distributed systems.
@@ -13,9 +11,7 @@
 * Mentor and technical leader who aligns engineering with business goals through clear communication
 * Polyglot programmer, skilled in several programming languages and frameworks, including C#, .NET Framework/Core, TypeScript and JavaScript, Node.js, with frontend experience in Angular and React.
 
----
-
-## PROFESSIONAL EXPERIENCE
+## **PROFESSIONAL EXPERIENCE**
 
 #### Clarivate |  Austin, TX  | Senior Lead Software Engineer  | January 2018–January 2025
 
@@ -29,8 +25,6 @@
 
 **Technologies**: TypeScript, Node.js, Express, React, C#, ASP\.NET Web API, MongoDB, MySQL, MS SQL, Entity Framework, AWS, Azure DevOps, GitHub Copilot, Microsoft Visual Studio, VS Code
 
-
-
 #### Volusion | Austin, TX | Software Engineer | June 2013–January 2018
 
 *Volusion provides e-commerce solutions to thousands of small and medium-sized businesses.*
@@ -43,8 +37,6 @@
 
 **Technologies:** ASP\.NET, C#, JavaScript, jQuery, SQL Server, T-SQL, PowerShell, TeamCity, Octopus Deploy, Visual Studio, VS Code
 
-
-
 #### HealthStream/Decision Critical | Austin, TX | Software Developer | June 2005–May 2013
 
 *HealthStream is a SaaS platform for delivering online educational content and assessing professional competencies.*
@@ -55,25 +47,19 @@
 
 **Technologies:** ASP\.NET, JavaScript, VB6, Active Server Pages, SQL Server, Visual Studio
 
----
+## **ADDITIONAL PROFESSIONAL EXPERIENCE**
 
-## ADDITIONAL PROFESSIONAL EXPERIENCE
+- **NCR Corporation** | Austin, TX | Software Developer | August 2003–May 2005
+- **PacifiCare Health Systems** | San Antonio, TX | Systems Analyst IV/Software Developer | September 2001–April 2003
+- **TEKsystems** | San Antonio, TX | Contract Software Developer | March 2001–August 2001
+- **drkoop\.com** | Austin, TX | Web Developer | August 2000–January 2001
 
-- **NCR Corporation | Austin, TX | Software Developer | August 2003–May 2005**
-- **PacifiCare Health Systems | San Antonio, TX | Systems Analyst IV/Software Developer | September 2001–April 2003**
-- **TEKsystems | Austin, TX | Contract Software Developer | March 2001–August 2001**
-- **drkoop.com | Austin, TX | Web Developer | August 2000–January 2001**
-
----
-
-## AWARDS
+## **AWARDS**
 
 * CPA Global Excellence Award, May 2019\.  
 * Volusion Values Award: Transparency, January 2017
 
----
-
-## TECHNICAL SKILLS
+## **TECHNICAL SKILLS**
 
 - **Backend**: C#, Node\.js, ASP\.NET, Express\.js, Entity Framework  
 - **Frontend**: React\.js, Angular, TypeScript, JavaScript (ES6), jQuery
@@ -81,8 +67,6 @@
 - **Database**: SQL Server, MySQL, MongoDB
 - **Practices**: Continuous integration, continuous delivery, test-driven development, SOLID, domain-driven design
 
----
+## **EDUCATION**
 
-## EDUCATION
-
-**Rutgers University | New Brunswick, NJ**: Coursework towards a BA in Spanish (not completed), specializing in linguistic analysis, literature, and culture
+**Rutgers University, New Brunswick, NJ**: Coursework towards a BA in Spanish (not completed), specializing in linguistic analysis, literature, and culture
