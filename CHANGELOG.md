@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.4.0](https://github.com/rbseaver/resume/compare/v1.3.0...v1.4.0) (2025-07-22)
+
+
+### Features
+
+* improve wording under DevOps summary bullet ([8156aaf](https://github.com/rbseaver/resume/commit/8156aaf6617c5fa5115b6cc401b606aea305890e))
+
 ## [1.3.0](https://github.com/rbseaver/resume/compare/v1.2.1...v1.3.0) (2025-07-22)
 
 
