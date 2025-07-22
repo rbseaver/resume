@@ -43,7 +43,7 @@
 
 * Joined as the third full-time employee, and worked directly with the CTO and CEO to enhance and expand the core product from primarily a learning management system (LMS), to a fully integrated suite of education, competency management, and employee evaluation tools.
 * Helped get new developers up to speed and contributing quickly.
-* Worked directly with major clients to provide account management, technical support and prioritize feature requests and bug fixes.
+* Worked directly with major clients to provide account management, technical support, and prioritize feature requests and bug fixes.
 * Applied diagnostic and programming skills to resolve issues across diverse customer environments.
 
 **Technologies:** ASP\.NET, JavaScript, VB6, Active Server Pages, SQL Server, Visual Studio
