@@ -7,9 +7,10 @@
 * 20+ years of experience in web application development across startups, government, and enterprise teams
 * Builds cloud-native, distributed applications with an API-first mindset, implementing event-driven patterns, domain-driven design, and observability in modern backend ecosystems  
 * Advocate for clean code, object-oriented design, and test-driven development  
-* Experience in CI/CD pipelines, infrastructure as code, and Agile practices
+* Skilled in creating and maintaining CI/CD pipelines, with additional experience in infrastructure as code (IAC) and other DevOps practices
 * Mentor and technical leader who aligns engineering with business goals through clear communication
 * Polyglot programmer with experience in C#, .NET Framework/Core, TypeScript, JavaScript, Node.js, and frontend frameworks including Angular and React
+
 ## **PROFESSIONAL EXPERIENCE**
 
 #### Clarivate |  Austin, TX  | Senior Lead Software Engineer  | January 2018–January 2025
